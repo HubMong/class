@@ -12,8 +12,8 @@
 
 ## 📄 주요 증빙
 
-- [📸 직업 선호도 L형 검사](./관련_사진1.png)
-- [📸 취업 특강 증빙](./관련_사진1.png)
+- [📸 직업 선호도 L형 검사](https://github.com/HubMong/class/blob/main/%EC%A7%81%EC%97%85%EC%84%A0%ED%98%B8%EB%8F%84L%ED%98%95%EA%B2%80%EC%82%AC.jpg)
+- [📸 취업 특강 증빙](https://github.com/HubMong/class/blob/main/%ED%95%99%EC%83%9D%EB%93%A4%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EC%B7%A8%EC%97%85%ED%8A%B9%EA%B0%95.jpg)
 
 ---
 
